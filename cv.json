@@ -1,112 +1,58 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Jorge Altamar Jiménez",
+    "label": "Desarrollador de Software - Estudiante de Ingeniería de Sistemas",
+    "image": "/logo.png",
+    "email": "jorkaltamarjimenez@gmail.com",
+    "phone": "+57 3006301236",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy estudiante de Ingeniería de Sistemas en el último semestre, apasionado por el desarrollo web y la ciencia de datos. Me destaco por mi capacidad para aprender rápidamente y aplicar nuevas tecnologías en proyectos prácticos. Busco oportunidades para contribuir con mis conocimientos y habilidades en un entorno profesional desafiante y dinámico.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "080002",
+      "city": "Barranquilla",
+      "countryCode": "Co",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "jorgealtamar",
+        "url": "https://linkedin.com/in/jorgealtamar"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "jorgealtamar",
+        "url": "https://github.com/jorgealtamar"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Universidad Simón Bolívar",
+      "position": "Profesional de I+D+i",
+      "url": "https://www.unisimon.edu.co/",
+      "startDate": "2024-01-16",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "En Metrik, en la Vicerrectoría de Investigación, Extensión e Innovación, mis responsabilidades incluyen la gestión y el análisis de los resultados de las actividades de investigación, desarrollo e innovación. Actualmente, estoy desarrollando sistemas de información asociados al área de Metrik, enfocándome en la creación de soluciones tecnológicas eficientes y efectivas.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Mi primer trabajo."
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "institution": "Universidad Simón Bolívar",
+    "url": "https://www.unisimon.edu.co/",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Pregrado",
+    "startDate": "2020-01-01",
+    "endDate": null
   }],
   "certificates": [{
-    "name": "Certificate",
+    "name": "Participante en VII Maratón de Programación - Expotecnología 2022",
     "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "issuer": "UNITECNAR",
+    "url": "https://www.unitecnar.edu.co/"
   }],
   "skills": [
     {
@@ -194,82 +140,60 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Green Project",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "App móvil en Flutter como resultado de un proyecto académico",
       "highlights": [
-        "Elige tu propia aventura",
+        "App móvil",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "github": "https://github.com/jorgealtamar/green_project"
     },
     {
-      "name": "AdventJS",
+      "name": "Algoritmo EM",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Algoritmo Expectation-Maximization (EM) para el modelo de Mezclas Gaussianas (GMM) en Python",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Python",
+        "Redes neuronales",
+        "Aprendizaje automático"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/jorgealtamar/em-algorithm"
     },
     {
-      "name": "Codember",
+      "name": "Clasificador de Puntos en Cuadrantes",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Genera puntos aleatorios en un plano cartesiano,crear una red neuronal con TensorFlow, entrenarla y clasificar los puntos según el entrenamiento",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Python",
+        "Redes neuronales",
+        "Aprendizaje automático"
       ],
-      "url": "https://codember.dev"
+      "github": "https://github.com/jorgealtamar/anns-quadrants"
     },
     {
-      "name": "codi.link",
+      "name": "SI Metrik - Revistas",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Sistema de Información para Metrik, Unisimón",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+        "Python",
+        "Postgres",
+        "En desarrollo"
+      ]
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "SI Metrik - Convocatoria",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Sistema de Información para Metrik, trazado a la convocatoria 957 de Minciencias",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+        "Angular",
+        "Node"
+      ]
     }
   ]
 }
